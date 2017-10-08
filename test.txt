@@ -1,0 +1,4 @@
+abcd123+123;
+/* hello */
+abc+-*/(abc):=,;=
+BEGIN END + IF THEN ELSE
